@@ -3,10 +3,7 @@
 <!--
 **Beingankitha/Beingankitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
-
-  **Hi There** 👋...
-  
+Here are some ideas to get you started:-->  
   ##I'm Ankita Patel.
   
   I love building solutions with code
