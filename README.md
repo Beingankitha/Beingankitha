@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
   ## 🚀 About Me 
   
-  Software & Data Engineer | SPI & NCEO, University of Leicester | 🌍 Earth Observation & Satellite Data
+  Research Software Engineer/Software & Data Engineer | SPI & NCEO, University of Leicester | 🌍 Earth Observation & Satellite Data
   
   I'm a Software & Data Engineer with deep expertise in building high-performance data pipelines, digital twin systems, and HPC-scale workflows. Currently at Space Park Leicester/NCEO, I specialize in Earth observation and satellite data processing, transforming cutting-edge research into operational software. 🌍✨
 
