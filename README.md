@@ -7,14 +7,13 @@ Here are some ideas to get you started:-->
 
   ## 🚀 About Me 
   
-  Research Software Engineer/Software & Data Engineer | SPI & NCEO, University of Leicester | 🌍 Earth Observation & Satellite Data
+  Research Software Engineer/Software & Data Engineer | Space Park Leicester/NCEO, University of Leicester | 🌍 Earth Observation & Satellite Data
   
-  I'm a Software & Data Engineer with deep expertise in building high-performance data pipelines, digital twin systems, and HPC-scale workflows. Currently at Space Park Leicester/NCEO, I specialize in Earth observation and satellite data processing, transforming cutting-edge research into operational software. 🌍✨
-
-
-As a Software and Data Engineer, deeply invested in the innovation and advancement within the realms of software development and data engineering. My role at the University of Leicester, bridging the Space Institute (SPI) and the National Centre for Earth Observation (NCEO), allows me to merge my skills in web development and database management. This unique position enables me to devise and implement scalable software solutions adept at managing and analysing intricate datasets, including those detailing land surface temperatures, within the fascinating field of satellite and Earth observation data processing.
-
-What I Bring to the Table:
+  I build data pipelines and software tools for satellite and Earth Observation missions. My work spans large-scale geospatial data processing, machine learning for remote sensing, digital twin systems, and HPC workflows.
+  
+  Currently contributing to UK Space Agency–funded programmes including ESAT Digital Twin, REALM, CO2SAT, and FDSPP, working with data from EUMETSAT, ESA, and NASA instruments.
+  
+  What I Bring to the Table:
 
 ---
 
@@ -30,11 +29,13 @@ What I Bring to the Table:
 
 ## 💡 What I Offer
 
-✅ **Scalable Data Pipelines:** Building systems that handle massive satellite/sensor datasets efficiently  
-✅ **Research-to-Production:** Transforming academic concepts into operational, maintainable software  
-✅ **Performance Engineering:** Profiling, vectorization, and optimization for HPC environments  
-✅ **Cross-Functional Collaboration:** Bridging data scientists, infrastructure teams, and stakeholders  
-✅ **Technical Documentation:** Clear user guides, API docs, and training materials for diverse audiences
+- **Programming:** Python (primary), C#, SQL, JavaScript, HTML/CSS, XML, JSON, Bootstrap, React, 
+- **Python (Data/ML):** NumPy, Pandas, SciPy, Xarray, scikit-learn, XGBoost, PyTorch/TensorFlow; FAISS (kNN acceleration)
+- **Backend / APIs:** Django, FastAPI, Flask; REST APIs
+- **Geospatial / EO:** NetCDF/HDF5/native binary formats; GDAL; visualization with Matplotlib/Cartopy
+- **HPC/Performance:** JASMIN/ALICE; SLURM (job scheduling, batch submission, resource allocation); profiling; vectorization; chunked processing; parallel I/O; memory control; CMake;
+- **Databases:** MySQL, SQL Server, SQLite, MongoDB; Time-series (QuestDB); Vector DB (ChromaDB)
+- **Additional:** IDL(basic), Fortran (basic); Excel/VBA
 
 ---
 
